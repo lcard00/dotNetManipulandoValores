@@ -1,0 +1,14 @@
+/home/lcard00/Projects/dotNetManipulandoValores/bin/Debug/net8.0/dotNetManipulandoValores
+/home/lcard00/Projects/dotNetManipulandoValores/bin/Debug/net8.0/dotNetManipulandoValores.deps.json
+/home/lcard00/Projects/dotNetManipulandoValores/bin/Debug/net8.0/dotNetManipulandoValores.runtimeconfig.json
+/home/lcard00/Projects/dotNetManipulandoValores/bin/Debug/net8.0/dotNetManipulandoValores.dll
+/home/lcard00/Projects/dotNetManipulandoValores/bin/Debug/net8.0/dotNetManipulandoValores.pdb
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.GeneratedMSBuildEditorConfig.editorconfig
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.AssemblyInfoInputs.cache
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.AssemblyInfo.cs
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.csproj.CoreCompileInputs.cache
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.dll
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/refint/dotNetManipulandoValores.dll
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.pdb
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.genruntimeconfig.cache
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/ref/dotNetManipulandoValores.dll

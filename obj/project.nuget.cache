@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5NcNdZ1giogT/VbUVc85PBCC0P+h5nVZ0JQjvZXux7eiW3nH5pvTbMM+8tP/ByVovz9+7LPr0auDBgBplbK5Q==",
+  "success": true,
+  "projectFilePath": "/home/lcard00/Projects/dotNetManipulandoValores/dotNetManipulandoValores.csproj",
+  "expectedPackageFiles": [
+    "/home/lcard00/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
