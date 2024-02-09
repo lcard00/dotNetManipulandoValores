@@ -12,3 +12,4 @@
 /home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.pdb
 /home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.genruntimeconfig.cache
 /home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/ref/dotNetManipulandoValores.dll
+/home/lcard00/Projects/dotNetManipulandoValores/obj/Debug/net8.0/dotNetManipulandoValores.sourcelink.json
